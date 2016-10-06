@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 PAGE_PATHS = ['pages']
 # Blogroll
 LINKS = (('kpi.ua', 'http://kpi.ua'),)
-STATIC_PATHS = ['images', 'materials']
+STATIC_PATHS = ['/fiot/images', '/fiot/materials']
 # Social widget
 
 DEFAULT_PAGINATION = False
